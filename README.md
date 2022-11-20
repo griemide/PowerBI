@@ -11,6 +11,9 @@ see [PowerBI-Berichte](https://github.com/griemide/PowerBI-Berichte)
 
 ## References  
 
+### DAX-Referenz (Data Analysis Expressions)
+Microsoft [Dokumentation](https://learn.microsoft.com/de-de/dax/) (german)  
+
 ### Blog [Connect Power BI to a Private GitHub Repo](https://smootherconsulting.com/learn/connect-power-bi-to-private-github-repo) by Mark Hoover  
 **Blog Summary:**  
 Connecting Power BI to a private GitHub repo is super easy. The key differences are:  
@@ -20,5 +23,10 @@ Connecting Power BI to a private GitHub repo is super easy. The key differences 
 
 
 
-[]()  
+[](https://learn.microsoft.com/de-de/dax/)  
+[]() 
+[]() 
+[]() 
+[]() 
+[]() 
 []() 
