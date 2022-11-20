@@ -1,0 +1,241 @@
+Record ID	Parent ID	Record Type	Plant / Organizational Unit	Short Desc.	Record State	Assigned To	Date Opened	Date Due
+59120	58911	Action Item		Requalifizierung BRR LIFE N	Closed - Done	Burgmaier, Patricia	2013-06-21 09:02 AM	2013-09-27
+59614	59395	Action Item		Sammelabweichung Validierungsbericht RRMS LIFE N (IT-ISCM-001021) - RRMS Nr. 2 - Maßnahme	Closed - Done	Gries, Michael	2013-07-02 01:38 PM	2013-08-31
+60704		CAPA Action Plan		EBR Qualifizierung EP500, OQ-Abschlußbericht CRMES0036 (IT-ISCM-001102)	Closed - Done	Gries, Michael	2013-08-13 02:40 PM	2013-08-23
+66157		CAPA Action Plan		Überprüfung und ggfs. Anpassung des Qualifizierungs- und Validierungsprozesses an cGMP Anforderungen	Closed - Done	Christ, Matthias	2014-01-29 03:27 PM	2018-10-31
+66768	66157	Action Item		Ad- hoc Vorgehen zu 1) Berücksichtigung der vorhandenen SOP bei Qualifizierungs- und Validierungsmaßnahmen (IT Systeme)	Closed - Done	Christ, Matthias	2014-02-14 09:24 AM	2014-03-31
+66769	66157	Action Item		Ad- hoc Vorgehen zu 2) Durchführung Part 11 Klassifizierung und Assessments	Closed - Done	Christ, Matthias	2014-02-14 09:27 AM	2014-03-31
+66771	66157	Action Item		Ad- hoc Vorgehen zu 2a/ 2b) Erstellung Risikobetrachtungen/ Aufgabenlisten bezüglich ggfs. auftretender Part 11- Lücken	Closed - Done	Christ, Matthias	2014-02-14 09:36 AM	2018-03-16
+66772	66157	Action Item		Ad- hoc Vorgehen zu 3) Erstellung Prozessflussdiagramme	Closed - Done	Christ, Matthias	2014-02-14 09:41 AM	2014-11-14
+66773	66157	Action Item		Langfristiges Vorgehen- Beschreibung des Verfahrens in relevanter Q&V- SOP	Closed - Done	Christ, Matthias	2014-02-14 09:46 AM	2018-10-31
+77324	76999	Action Item		Erstellung Risikoanalyse	Closed - Done	Christ, Matthias	2014-12-12 08:54 AM	2015-01-30
+91523	91519	Action Item		Nachverfolgung der definierten Maßnahmen	Closed - Done	Polewka, Alexander	2015-12-17 05:02 PM	2016-06-30
+91918	91590	Risk Assessment		Qualifizierung: Mobile Tracking Software zur Erfassung von Kartoncodes (ESCS) - Abweichender Qualifizierungsumfang	Closed - Done	Christ, Matthias	2016-01-07 09:33 AM	2016-02-26
+117898		CAPA Action Plan		Zuteilung und Entfernung von Nutzern an computerisierten Systemen	Closed - Done	Heiderich, Lars Juergen	2017-07-14 01:48 PM	2017-11-30
+117899	117898	Action Item		Zuteilung und Entfernung von Nutzern an computerisierten Systemen - Anpassung des Verfahrens mittels Formblatt	Closed - Done	Heiderich, Lars Juergen	2017-07-14 01:59 PM	2017-11-29
+118359		CAPA Action Plan		Q&VDE53_Q&V-Plan VAL-P-MEG-5-002659_Plan für das periodische Review Reinraum Monitoring System RRMS DE53	Closed - Done	Heiderich, Lars Juergen	2017-07-25 10:36 AM	2017-08-31
+122513	122505	Action Item		Erstellung Qualifizierungsbericht	Closed - Done	Polewka, Alexander	2017-10-13 12:22 PM	2017-12-30
+126136		CAPA Action Plan		Q&VDE53_Q&V-Plan VAL-P-MEG-5-002900_IOQ-Plan PLS-A Umzug LNEA1 HC-CHC-P-MEG-920	Closed - Done	Heiderich, Lars Juergen	2017-12-15 03:58 PM	2018-08-31
+126302	126138	Action Item		n.i.O. Bewertung Genutztes Equipment (Ch. 175018211, Lsg. 370)	Closed - Done	Burgmaier, Patricia	2017-12-19 02:08 PM	2018-01-03
+131699	131687	Root Cause Analysis		Periodic Reviews der IT Systeme PUC und MES erfolgte nicht gemäß den Vorgaben des VMPs-107	Closed - Cancelled	Christ, Matthias	2018-03-29 09:27 AM	2018-04-25
+131700	131687	Risk Assessment		Periodic Reviews der IT Systeme PUC und MES erfolgte nicht gemäß den Vorgaben des VMPs-107	Closed - Cancelled	Christ, Matthias	2018-03-29 09:28 AM	2018-04-26
+133301	133168	Action Item		Periodic Reviews der IT Systeme PUC und MES erfolgte nicht gemäß den Vorgaben des VMPs-107, Abschluss der Periodic Rev.	Closed - Done	Gries, Michael	2018-04-26 11:37 AM	2018-09-27
+138495		CAPA Action Plan		QK_Nachrüstung Drahtbrucherkennung Reinraummonitoring Zentrallabor (Neuberger)	Closed - Done	Christ, Matthias	2018-07-17 02:47 PM	2020-11-27
+143530	142623	Action Item		Umsetzung Maßnahme B) zu Q&V Abweichung 2 und Maßnhme A), B) und D) zu Q&V Abweichung 3	Closed - Done	Heiderich, Lars Juergen	2018-10-04 03:36 PM	2018-11-30
+143531	142623	Action Item		Umsetzung Maßnahme C) zu Q&V Abweichung 2	Closed - Done	Heiderich, Lars Juergen	2018-10-04 03:37 PM	2018-12-14
+144802		CAPA Action Plan		QK_Q&V Wirksamkeitsprüfung zur Anwendung von SOP-P-MEG-QC-000654 (Vorgehen Qualifizierung von Analysensystemen)	Closed - Done	Christ, Matthias	2018-10-25 10:07 AM	2020-09-30
+150065	148220	Root Cause Analysis		Erzeugung Herstellprotokoll Abfüllung nicht vollständig, Bereich 3 Kammerbeutel	Closed - Cancelled	Gries, Michael	2019-01-15 02:36 PM	2019-01-25
+153128	144802	Action Item		Wirksamkeitsprüfung durch Qualifizierung eines Osmometers	Closed - Done	Christ, Matthias	2019-02-28 03:25 PM	2020-09-30
+155881		Corrective / Preventive Actions (CAPA)	Melsungen (Quality Unit)	Anpassung Dokumente im Rahmen der Etablierung der SOP-P-MEG-QC-000654	Closed - Done	Christ, Matthias	2019-04-10 11:02 AM	2022-04-28
+158174		Corrective / Preventive Actions (CAPA)	Melsungen (MS&T Center)	Q&VDE03_Q&V-Plan VAL-P-TECH-000241_IOQ-Plan Austausch Hardware PLS-E Pharma Technikum, HC-CHC-P-MEG-1257	Closed - Done	Heiderich, Lars Juergen	2019-05-20 10:40 AM	2019-07-15
+158254	158240	Action Item		Divisional Audit at Melsungen, Laboratory and Stability 2017-11-30: observation 2a	Closed - Done	Christ, Matthias	2019-05-21 09:07 AM	2019-06-14
+158256	158240	Action Item		Divisional Audit at Melsungen, Laboratory and Stability 2017-11-30: observation 2b	Closed - Done	Christ, Matthias	2019-05-21 09:08 AM	2019-06-14
+158657	158652	Root Cause / Impact Analysis	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-VAL-P-WERK P-001983_Erstellung einer Betriebs-SOP PUC DE13	Closed - Done	Gries, Michael	2019-05-27 04:34 PM	2019-06-06
+158659	158652	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-VAL-P-WERK P-001983_Erstellung einer Betriebs-SOP PUC DE13	Closed - Done	Gries, Michael	2019-05-27 04:36 PM	2019-06-06
+159071	155881	Due Date Extension / Escalation		Anpassung Dokumente im Rahmen der Etablierung der SOP-P-MEG-QC-000654	Closed - Done	Christ, Matthias	2019-06-04 05:25 PM	
+159325	159324	Root Cause / Impact Analysis	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-VAL-P-WERK P-002110_Erstellung einer Betriebs-SOP MES DE13	Closed - Done	Gries, Michael	2019-06-07 03:07 PM	2019-07-05
+159326	159324	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-VAL-P-WERK P-002110_Erstellung einer Betriebs-SOP MES DE13	Closed - Done	Gries, Michael	2019-06-07 03:08 PM	2019-07-05
+159353	159319	Root Cause / Impact Analysis	Melsungen LIFE (Commercial Manufacturing DE13)	Change 1240 - 2. Verlängerung überschritten	Closed - Done	Gries, Michael	2019-06-11 09:01 AM	2019-07-29
+159663	155881	Action	Melsungen (Quality Unit)	"1. Anpassung des Templates HC-DE08-D-4-2-01-288-01 ""Template zur Erstellung einer Geräte-SOP"""	Closed - Done	Christ, Matthias	2019-06-14 06:28 AM	2020-02-28
+159665	155881	Action	Melsungen (Quality Unit)	"2. Anpassung der SOP-P-MEG-QC-000654  ""Vorgehen Qualifizierung von Analysensystemen"" (Version 1.0)"	Closed - Done	Christ, Matthias	2019-06-14 06:48 AM	2019-07-26
+159667	155881	Action	Melsungen (Quality Unit)	"4. Anpassung von VAL-P-MEG-008924 ""Appendix 2 to VMP-109 - Qualification program Quality control"""	Closed - Done	Christ, Matthias	2019-06-14 07:20 AM	2020-02-28
+159669	155881	Action	Melsungen (Quality Unit)	5. Erstellung einer SOP für die Qualifizierung von Wärme-, Trocken- und Brutschränken sowie Heißluftsterilisatoren	Closed - Done	Christ, Matthias	2019-06-14 07:29 AM	2022-04-28
+160176	160162	Root Cause / Impact Analysis	Melsungen LIFE (Commercial Manufacturing DE13)	Change 1069 - 2. Verlängerung überschritten	Closed - Done	Gries, Michael	2019-06-24 10:08 AM	2019-07-29
+160626	160526	Quality Assessment	Melsungen (Quality Unit)	Requalifizierung eines MAS 100 NT (19941) nach Ausfall	Closed - Done	Christ, Matthias	2019-06-28 11:02 AM	2019-07-25
+162241	162085	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-QP-3303-01-PR VAL-P-WERK P-002694_PR-Plan Prozessleitsystem PLS-PE 2018	Closed - Done	Heiderich, Lars Juergen	2019-07-23 11:10 AM	2019-08-29
+164244	162215	Measure	Melsungen (Quality Unit)	Maßnahme zu # 162215: Durchführung der initialen Qualifizierung des DensiCHEK plus	Closed - Done	Christ, Matthias	2019-08-27 11:42 AM	2022-04-14
+168358		Corrective / Preventive Actions (CAPA)	Melsungen (Quality Unit)	Q&V Automation_Compliance of template for terminal instrument qualification	Closed - Done	Christ, Matthias	2019-10-23 11:39 AM	2021-03-31
+169250		Corrective / Preventive Actions (CAPA)	Melsungen (Quality Unit)	PCS / Delsa Max Core: Altdatenmigration von N5 System auf Neusystem nicht möglich	Closed - Done	Christ, Matthias	2019-11-05 02:31 PM	2022-03-31
+170994	155881	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für die Umsetzung der Maßnahmen zu Childeinträgen (159663,159667 und 159669)	Closed - Done	Christ, Matthias	2019-11-28 02:05 PM	
+173007	172969	Quality Assessment	Melsungen (Quality Unit)	SOP-P-MEG-QC-000654: Laminar Flows nicht geführt als System das im kontinuierlichen Betrieb requalifiziert werden muss	Closed - Done	Christ, Matthias	2020-01-06 10:23 AM	2020-01-31
+173008	172969	Root Cause / Impact Analysis	Melsungen (Quality Unit)	SOP-P-MEG-QC-000654: Laminar Flows nicht geführt als System das im kontinuierlichen Betrieb requalifiziert werden muss	Closed - Done	Christ, Matthias	2020-01-06 10:23 AM	2020-01-31
+174312	151778	Root Cause Analysis		2. Zieldatenverlängerung zum HC-CHC-P-MEG-1017 überschritten	Closed - Done	Gries, Michael	2020-01-21 10:14 AM	2020-01-31
+176236	172969	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für Abweichung PR#172969	Closed - Done	Christ, Matthias	2020-02-13 07:16 AM	
+177741	172969	Measure	Melsungen (Quality Unit)	Maßnahme zu #172969: SOP-P-MEG-QC-000656: Laminar Flow: Anpassung SOP, Rückmeldung ob weitere Systeme betroffen	Closed - Done	Christ, Matthias	2020-03-03 11:05 AM	2021-04-28
+178359	164244	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für Abweichung 164244	Closed - Done	Christ, Matthias	2020-03-10 03:24 PM	
+181806	174069	Audit Observation	Berlin (Commercial Manufacturing DE03)	Valdierung des computergestützen Herstellprotokolls (Teil B)	Action Implementation	Weinert, Stefan	2020-04-23 09:25 AM	
+181991	180789	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Periodic Review PLS-E DE13 VAL-P-WERK P-002957_PR-Plan PLS-E DE13 2019 - Abweichung 2	Closed - Done	Heiderich, Lars Juergen	2020-04-24 03:50 PM	2020-05-14
+183221	182746	Root Cause / Impact Analysis	Melsungen Werk A (Commercial Manufacturing DE09)	2. Zieldatenverlängerung ist überschritten im HC-CHC-P-MEG-1207	Closed - Done	Gries, Michael	2020-05-12 02:52 PM	2020-07-15
+183234	183228	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Fehlende Rationale für nicht beschrieben Prüfungen in der Qualifizierung (Osmometer)	Closed - Done	Christ, Matthias	2020-05-12 03:51 PM	2020-05-26
+183235	183228	Quality Assessment	Melsungen (Quality Unit)	Fehlende Rationale für nicht beschrieben Prüfungen in der Qualifizierung (Osmometer)	Closed - Done	Christ, Matthias	2020-05-12 03:52 PM	2020-05-26
+183369	183228	Measure	Melsungen (Quality Unit)	Maßnahme zu #183228: fehlende Rationale für nicht beschriebene Prüfungen in Qualifzierung: Versionierung DQB-3154-01	Closed - Done	Christ, Matthias	2020-05-14 10:07 AM	2020-06-25
+183370	183228	Measure	Melsungen (Quality Unit)	Maßnahme zu #183228: Fehlende Rationale für nicht beschriebene Prüfungen in Qualifizierung: Erstellung IOQP	Closed - Done	Christ, Matthias	2020-05-14 10:10 AM	2020-07-16
+184270	169250	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für Abweichung 169250 (Altdatenmigration / PCS)	Closed - Done	Christ, Matthias	2020-05-27 08:26 AM	
+184273	168358	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für CAPA 168358	Closed - Done	Christ, Matthias	2020-05-27 09:00 AM	
+185925	185248	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-QP-2865-02-PR VAL-P-WERK P-002995_PR-Plan RRMS DE13 2019 _ Abweichung 4	Closed - Done	Burgmaier, Patricia	2020-06-18 01:14 PM	2020-06-29
+187718	187592	Measure	Melsungen (Quality Unit)	Maßnahme zu #187592:  QV_Einstellung / Anzeige der korrekten Einheit im Ergebnis (mOsmol/kg): Versionierung Dokumente	Closed - Done	Christ, Matthias	2020-07-10 07:57 PM	2021-05-21
+187831	187593	Measure	Melsungen (Quality Unit)	Maßnahme zu #187593: Eintragungen in Application List nicht möglich: Nachtragung in Application List	Closed - Done	Christ, Matthias	2020-07-13 04:35 PM	2021-07-22
+193522	169250	Due Date Extension / Escalation		2. Erweiterung des aktuellen Zeitraums für Abweichung 169250 (Altdatenmigration / PCS)	Closed - Done	Christ, Matthias	2020-09-29 04:35 PM	
+195047	195025	Measure	Melsungen (Quality Unit)	Maßnahme zu: 2IA -Keine Anmeldung von Administratoren und Usern an AAS Geräten (PM 31774/ PM 31775) Klärung Quali stand	Closed - Done	Christ, Matthias	2020-10-19 03:12 PM	2020-11-23
+195201	195025	Measure	Melsungen (Quality Unit)	Maßnahme zu: 2IA -Keine Anmeldung Admin/ Usern  an AAS Geräten (PM 31774 /PM 31775) der QC möglich: Anpassung Dokumente	Closed - Done	Christ, Matthias	2020-10-21 09:18 AM	2020-10-29
+195535	155881	Due Date Extension / Escalation		2. Erweiterung des aktuellen Zeitraums für CAPA Action 159669.	Closed - Done	Christ, Matthias	2020-10-26 07:29 AM	
+196225	187831	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für Abweichung 187831	Closed - Done	Christ, Matthias	2020-11-02 05:00 PM	
+197316	195350	Audit Observation	Melsungen LIFE (Commercial Manufacturing DE13)	QM-Internes Audit Data Integrity QA DE13 - 5 DATENREVIEW - A - HA	Closed - Done	Christ, Matthias	2020-11-16 10:42 AM	
+197681	193231	Measure	CoE Pharmaceuticals multiple Sites (Commercial Manufacturing)	Prüfung der Application List im Rahmen des Periodic Reviews 2020 / Apassung Template Periodic Review	Closed - Done	Heiderich, Lars Juergen	2020-11-19 12:46 PM	2020-12-17
+198101	193231	Measure	CoE Pharmaceuticals multiple Sites (Commercial Manufacturing)	Anpassung Template Periodic Review	Closed - Cancelled	Heiderich, Lars Juergen	2020-11-25 11:01 AM	2020-12-23
+198736	168358	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für PR 168358 (Effectiveness Check)	Closed - Done	Christ, Matthias	2020-12-01 11:38 AM	
+200101	187718	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für Abweichung 187592	Closed - Done	Christ, Matthias	2020-12-15 11:15 AM	
+200462	200382	Root Cause / Impact Analysis	Melsungen LIFE N (Commercial Manufacturing DE53)	Periodic Review MES 2020 nicht fristgerecht durchgeführt	Closed - Done	Christ, Matthias	2020-12-17 04:02 PM	2021-01-19
+201668	201647	Measure	Melsungen (Quality Unit)	Maßnahme zu #201647: Qualifizierung Heißluftsterilisator	Closed - Done	Christ, Matthias	2021-01-08 02:34 PM	2021-08-26
+204837	198882	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_VAL-P-WERK P-003410_Reinigungsregeln PLS-E	Closed - Done	Gries, Michael	2021-02-11 10:34 AM	2021-02-17
+206189	201668	Due Date Extension / Escalation		Fristverlängerung zu #201668 - Maßnahme zu #201647: Qualifizierung Heißluftsterilisator	Closed - Done	Christ, Matthias	2021-02-25 07:23 PM	
+206190	155881	Due Date Extension / Escalation		2. Fristverlängerung zu #155881 - Anpassung Dokumente im Rahmen der Etablierung der SOP-P-QC-00654	Closed - Done	Christ, Matthias	2021-02-25 07:38 PM	
+206994	206914	Root Cause / Impact Analysis	Melsungen (Quality Unit)	SOP-P-MEG-QC-000654: Laminar Flows nicht als System geführt, das im kontinuierlichen Betrieb requalifiziert wird	Closed - Done	Christ, Matthias	2021-03-09 10:28 AM	2021-03-23
+212655	212065	Measure	Melsungen (MS&T Center)	Überprüfung der angepassten SPS-Software an vorangegangene CSV-Aktivitäten	Closed - Done	Polewka, Alexander	2021-05-11 09:16 AM	2021-06-25
+213718	187831	Due Date Extension / Escalation		2. Erweiterung des aktuellen Zeitraums für Abweichung 187831	Closed - Done	Christ, Matthias	2021-05-22 06:32 PM	
+213719	201668	Due Date Extension / Escalation		2. Fristverlängerung zu#201668 - Maßnahme zu #201647: Qulaifizierung Heißluftsterilisator	Closed - Done	Christ, Matthias	2021-05-22 06:51 PM	
+215521		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_alle Linien	Closed - Done	Gries, Michael	2021-06-10 11:36 AM	2022-06-24
+215968		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_PUC-Logbuch	Closed - Done	Gries, Michael	2021-06-15 07:22 AM	2022-05-06
+216158	215521	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_alle Linien	Closed - Done	Gries, Michael	2021-06-16 10:29 AM	2021-07-20
+216917	216775	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-IQP-3588-01_Installationsqualifizierung Chromstar 7, Client-PC (Abw. 01)	Closed - Done	Christ, Matthias	2021-06-23 01:40 PM	2021-07-20
+216919	216775	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-IQP-3588-01_Installationsqualifizierung Chromstar 7, Client-PC (Abw. 01)	Closed - Done	Christ, Matthias	2021-06-23 01:41 PM	2021-07-20
+216926	216775	Measure	Melsungen (Quality Unit)	Maßnahme zu: Q&VZL_Q&V-IQP-3588-01_Installationsqualifizierung Chromstar 7, Client-PC (Abw. 01): Anpassung Dokumente	Closed - Done	Christ, Matthias	2021-06-23 02:03 PM	2021-12-17
+217430	159669	Due Date Extension / Escalation		3. Erweiterung des aktuellen Zeitraums für CAPA Action 159669.	Closed - Done	Christ, Matthias	2021-06-28 03:37 PM	
+217435	155881	Due Date Extension / Escalation		3. Fristverlängerung zu #155881 - Anpassung Dokumente im Rahmen der Etablierung der SOP-P-QC-000654	Closed - Done	Christ, Matthias	2021-06-28 03:49 PM	
+218332	215976	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_Einzelfehler-EBR	Closed - Done	Gries, Michael	2021-07-07 03:12 PM	2021-07-20
+218337	215968	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_PUC-Logbuch	Closed - Done	Gries, Michael	2021-07-07 03:25 PM	2021-08-03
+218590	218487	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Part11 Compliance (Abw. 01)	Closed - Done	Christ, Matthias	2021-07-09 01:40 PM	2021-07-16
+218591	218487	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Part11 Compliance (Abw. 01)	Closed - Done	Christ, Matthias	2021-07-09 01:44 PM	2021-07-16
+218592	218490	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Audit-Trail Review (Abw. 02)	Closed - Done	Christ, Matthias	2021-07-09 01:47 PM	2021-07-16
+218593	218490	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Audit-Trail Review (Abw. 02)	Closed - Done	Christ, Matthias	2021-07-09 01:49 PM	2021-07-16
+218808	218490	Measure	Melsungen (Quality Unit)	Measure to: Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Audit-Trail Review (Abw. 02): Evaluating Audit trail Review	Closed - Done	Christ, Matthias	2021-07-13 08:59 AM	2021-10-08
+219738	218487	Measure	Melsungen (Quality Unit)	Measure to:Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Part11 Compliance (Abw. 01): Performing compliance evaluation	Closed - Done	Christ, Matthias	2021-07-22 11:12 AM	2021-11-25
+219740	218487	Measure	Melsungen (Quality Unit)	Measure to:Q&VZL_Q&V-DQB-3657-01_Designqualifizierung, Part11 Compliance (Abw. 01) Check of new document of th vendor	Closed - Done	Christ, Matthias	2021-07-22 11:14 AM	2021-11-30
+220301	220006	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3623-01_Designqualifizierung, Audit-Trail Review (Abw. 01)	Closed - Done	Christ, Matthias	2021-07-29 09:16 AM	2021-10-04
+220302	220007	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3623-01_Designqualifizierung, Rawdata Migration (Abw. 02)	Closed - Done	Christ, Matthias	2021-07-29 09:18 AM	2021-11-01
+220308	220006	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3623-01_Designqualifizierung, Audit-Trail Review (Abw. 01)	Closed - Done	Christ, Matthias	2021-07-29 09:29 AM	2021-09-30
+220309	220007	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-DQB-3623-01_Designqualifizierung, Rawdata Migration (Abw. 02)	Closed - Done	Christ, Matthias	2021-07-29 09:32 AM	2021-11-01
+220722	220303	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_VAL-P-WERK P-003426_Zugriffsberechtigungen_DLS2	Closed - Done	Gries, Michael	2021-08-03 03:05 PM	2021-08-24
+220765	220006	Measure	Melsungen (Quality Unit)	Measure to: Q&VZL_Q&V-DQB-3623-01_Designqualifizierung, Audit-Trail Review (Abw. 01): Evaluating Audit trail Review	Closed - Done	Christ, Matthias	2021-08-04 10:04 AM	2021-11-25
+220773	220007	Measure	Melsungen (Quality Unit)	measure to: Q&V-DQB-3623-01_Designqualifizierung, Rawdata Migration (Abw. 02): reviewing existing project documentation	Closed - Done	Christ, Matthias	2021-08-04 10:36 AM	2021-08-31
+220775	220007	Measure	Melsungen (Quality Unit)	measure to: Q&V-DQB-3623-01_Designqualifizierung, Rawdata Migration (Abw. 02): Perfoming IQ/OQ for the new Hardware/Soft	Closed - Done	Christ, Matthias	2021-08-04 10:41 AM	2022-03-31
+221837	216926	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für die Abweichung 216775	Closed - Done	Christ, Matthias	2021-08-18 06:52 AM	
+221838	218808	Due Date Extension / Escalation		Due Date extension for measures to childs 218808	Closed - Done	Christ, Matthias	2021-08-18 07:03 AM	
+221839	220006	Due Date Extension / Escalation		Due Date extension for measures to child 220765	Closed - Cancelled	Christ, Matthias	2021-08-18 07:07 AM	
+223049	220765	Due Date Extension / Escalation		Due Date extension for measures to child 220765	Closed - Done	Christ, Matthias	2021-08-31 02:23 PM	
+223067	219738	Due Date Extension / Escalation		Due Date extension for measures to child 219738	Closed - Done	Christ, Matthias	2021-08-31 03:12 PM	
+223697	220303	Due Date Extension / Escalation		Q&VDE13_VAL-P-WERK P-003426_Zugriffsberechtigungen_DLS2	Closed - Done	Gries, Michael	2021-09-08 11:02 AM	
+224701	197316	Due Date Extension / Escalation		Due Date extension for measure to child 197316	Closed - Done	Christ, Matthias	2021-09-17 06:45 PM	
+228462	197316	Due Date Extension / Escalation		2. Due Date extension for measure to child 197316	Closed - Done	Christ, Matthias	2021-10-28 09:51 AM	
+228484	164244	Due Date Extension / Escalation		2. Erweiterung des aktuellen Zeitraums für Abweichung 164244	Closed - Done	Christ, Matthias	2021-10-28 11:10 AM	
+228531	220765	Due Date Extension / Escalation		2. Due Date extension for measures to child 220765	Closed - Done	Christ, Matthias	2021-10-29 08:18 AM	
+228546	219738	Due Date Extension / Escalation		2. Due Date extension for measures to child 219738	Closed - Done	Christ, Matthias	2021-10-29 10:08 AM	
+228599	227359	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-IQP-3623-01_Installationsqualifizierung, fehlender EQP (Abw. 01)	Closed - Done	Christ, Matthias	2021-10-29 12:27 PM	2021-11-26
+228600	227359	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-IQP-3623-01_Installationsqualifizierung, fehlender EQP (Abw. 01)	Closed - Done	Christ, Matthias	2021-10-29 12:29 PM	2021-11-26
+229338	169250	Due Date Extension / Escalation		Erweiterung des aktuellen zeitraums für die Wirksamkeitsprüfung Abweichung 169250	Closed - Done	Christ, Matthias	2021-11-05 04:42 PM	
+229912	216926	Due Date Extension / Escalation		Erweiterung des aktuellen Zeitraums für Maßnahme 216926	Closed - Done	Christ, Matthias	2021-11-12 07:52 AM	
+229947	229500	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-IQP-3657-01_Installationsqualifizierung, Datenmigration NWWS (Abw. 01)	Closed - Done	Christ, Matthias	2021-11-12 11:56 AM	2021-12-16
+229948	229500	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-IQP-3657-01_Installationsqualifizierung, Datenmigration NWWS (Abw. 01)	Closed - Done	Christ, Matthias	2021-11-12 11:56 AM	2021-12-16
+230143	229500	Measure	Melsungen (Quality Unit)	Measure to: Q&VZL_Q&V-IQP-3657-01_Installationsqualifizierung, Datenmigration NWWS	Closed - Done	Christ, Matthias	2021-11-15 02:01 PM	2022-01-31
+230146	229500	Measure	Melsungen (Quality Unit)	measure to: Q&VZL_Q&V-IQP-3657-01_Installationsqualifizierung, Datenmigration NWWS: Qualification	Closed - Done	Christ, Matthias	2021-11-15 02:09 PM	2022-03-24
+230150	229500	Measure	Melsungen (Quality Unit)	measure to: Q&VZL_Q&V-IQP-3657-01_Installationsqualifizierung, Datenmigration NWWS: Tests and revision of IQB-3657-01	Closed - Done	Christ, Matthias	2021-11-15 02:14 PM	2022-05-26
+231624	220007	Due Date Extension / Escalation		1. Due Date Extension to Deviation #220007	Closed - Done	Christ, Matthias	2021-11-29 07:06 AM	
+233273	233261	Root Cause / Impact Analysis	Melsungen LIFE N (Commercial Manufacturing DE53)	Periodic Review PLS-E und PUC 2021 nicht fristgerecht durchgeführt	Closed - Done	Christ, Matthias	2021-12-14 01:46 PM	2022-01-14
+233552	233476	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&V 3901 und 3902_Neuanschaffung Dilutoren ohne Lastenheft, Pflichtenheft und Designqualifizierung	Closed - Done	Christ, Matthias	2021-12-16 12:02 PM	2022-01-27
+233554	233476	Quality Assessment	Melsungen (Quality Unit)	Q&V 3901 und 3902_Neuanschaffung Dilutoren ohne Lastenheft, Pflichtenheft und Designqualifizierung	Closed - Done	Christ, Matthias	2021-12-16 12:04 PM	2022-01-28
+234554	169250	Due Date Extension / Escalation		2.  Erweiterung des aktuellen Zeitraums für die Wirksamkeitsprüfung Abweichung 169250	Closed - Done	Christ, Matthias	2021-12-31 09:01 AM	
+235185	234969	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-OQP-3657-01_Operational Qualification, Installation Documentation (Dev. 01)	Closed - Done	Christ, Matthias	2022-01-10 08:46 AM	2022-01-14
+235186	234969	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-OQP-3657-01_Operational Qualification, Installation Documentation (Dev. 01)	Closed - Done	Christ, Matthias	2022-01-10 08:51 AM	2022-01-14
+235187	234970	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-OQP-3657-01_Operational Qualification, Testing data exchange of non OpenLAB systems (Dev. 02)	Closed - Done	Christ, Matthias	2022-01-10 08:54 AM	2022-01-14
+235188	234970	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-OQP-3657-01_Operational Qualification, Testing data exchange of non OpenLAB systems (Dev. 02)	Closed - Done	Christ, Matthias	2022-01-10 08:55 AM	2022-01-14
+235353	233476	Measure	Melsungen (Quality Unit)	Maßnahme zu #233476: Neuanschaffung ohne LH, PH, DQ: Risikoananlyse	Closed - Done	Christ, Matthias	2022-01-11 10:09 AM	2022-02-08
+235697	234681	Quality Assessment	Melsungen (Quality Unit)	Q&V 3907_ TOC-Analysator aus DE09 ins MS&T Center ohne Lastenheft, Pflichtenheft und Designqualifizierung	Closed - Done	Christ, Matthias	2022-01-13 01:05 PM	2022-02-01
+235698	233476	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&V 3907_ TOC-Analysator aus DE09 ins MS&T Center ohne Lastenheft, Pflichtenheft und Designqualifizierung	Closed - Cancelled	Christ, Matthias	2022-01-13 01:06 PM	2022-02-01
+235702	234681	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&V 3907_ TOC-Analysator aus DE09 ins MS&T Center ohne Lastenheft, Pflichtenheft und Designqualifizierung	Closed - Done	Christ, Matthias	2022-01-13 01:11 PM	2022-02-01
+236086	233261	Measure	CoE Pharmaceuticals Central Functions	Periodic Review PLS-E und PUC 2021 nicht fristgerecht durchgeführt	Measure Execution	Christ, Matthias	2022-01-18 11:05 AM	2023-01-26
+236106	233261	Measure	Melsungen LIFE N (Commercial Manufacturing DE53)	Periodic Review PLS-E und PUC 2021 nicht fristgerecht durchgeführt/ Rückmeldung der Review Berichte	Closed - Done	Christ, Matthias	2022-01-18 01:09 PM	2022-10-07
+236247	220007	Due Date Extension / Escalation		2. Due Date Extension to Deviation #220007	Closed - Done	Christ, Matthias	2022-01-19 10:07 AM	
+236847	215968	Due Date Extension / Escalation		Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_PUC-Logbuch	Closed - Done	Gries, Michael	2022-01-25 11:07 AM	
+236971	234969	Measure	Melsungen (Quality Unit)	Measure to: Q&VZL_Q&V-OQP-3657-01_Operational Qualification, Installation Documentation (Dev. 01) Adaption of SOP	Closed - Done	Christ, Matthias	2022-01-26 10:25 AM	2022-02-16
+237013	234969	Due Date Extension / Escalation		1. Due Date Extension to Deviation #234969	Closed - Done	Christ, Matthias	2022-01-26 01:31 PM	
+237490	236822	Measure	Berlin (Commercial Manufacturing DE03)	Requalifizierung Lagerverwaltungssystem nach Softwareupdate	Closed - Done	Weinert, Stefan	2022-01-31 02:59 PM	2022-03-14
+237546	229500	Due Date Extension / Escalation		1. Due Date Extension to Deviation 229500 including Measures 230146 and 230150	Closed - Done	Christ, Matthias	2022-01-31 03:55 PM	
+237820	234970	Measure	Melsungen (Quality Unit)	Measure to: Q&VZL_Q&V-OQP-3657-01_Operational Qualification, Testing data exchange of non OpenLAB systems : Test	Measure Execution	Christ, Matthias	2022-02-03 06:55 AM	2022-10-14
+238274	238147	Quality Assessment	Melsungen (Quality Unit)	Q&VZL_Q&V-IOQP-3623-02_Installations-undFunktionsqualifizierungsplan_Part11 Compliance (Abw.01)	Closed - Done	Christ, Matthias	2022-02-08 08:05 AM	2022-02-11
+238275	238147	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VZL_Q&V-IOQP-3623-02_Installations-undFunktionsqualifizierungsplan_Part11 Compliance (Abw.01)	Closed - Done	Christ, Matthias	2022-02-08 08:06 AM	2022-02-11
+238411	238147	Measure	Melsungen (Quality Unit)	Measure to: Q&VZL_Q&V-IOQP-3623-02_Installations-undFunktionsqualifizierungsplan_Part11 Compliance (Abw.01): Evaluation	Closed - Done	Christ, Matthias	2022-02-09 07:25 AM	2022-02-15
+238733	234681	Due Date Extension / Escalation		Erste Fristverlängerung zu Q&V 3907_ TOC-Analysator aus DE09 ins MS&T Center ohne Lastenheft, Pflichtenheft und Designqu	Closed - Done	Elouali, Salma	2022-02-11 12:07 PM	
+238738	234681	Measure	Melsungen (Quality Unit)	Maßnahme zu: # 234681 Erstellung Risikoabschätzung	Closed - Done	Elouali, Salma	2022-02-11 12:15 PM	2022-07-14
+239248	164244	Due Date Extension / Escalation		3. Erweiterung des aktuellen Zeitraums für Measure 164244	Closed - Done	Christ, Matthias	2022-02-16 12:36 PM	
+240475		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_VAL-P-WERK P-003752_QP-3303-02-PR Periodic Review PLS-PE	Closed - Done	Gries, Michael	2022-02-27 07:52 PM	2022-03-31
+240937	237490	Due Date Extension / Escalation		Requalifizierung Lagerverwaltungssystem nach Softwareupdate	Closed - Done	Weinert, Stefan	2022-03-02 01:45 PM	
+241392		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017580_OQP 3617-01, Verschiebung des Testfalls Pos. OQ-7 in PQP	Closed - Done	Christ, Matthias	2022-03-07 03:41 PM	2022-05-15
+241895		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_VAL-P-WERK P-003752_QP-3303-02-PR Periodic Review PLS-PE	Closed - Cancelled	Gries, Michael	2022-03-10 04:11 PM	2022-03-17
+241901	241895	Risk Assessment (RA)	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_VAL-P-WERK P-003752_QP-3303-02-PR Periodic Review PLS-PE	Closed - Done	Gries, Michael	2022-03-10 04:38 PM	2022-03-17
+241938		Deviation	Melsungen LIFE N (Commercial Manufacturing DE53)	Q&VDE53_ VAL-P-MEG-5-004198_QP- 2524-03-PR Periodic Review PLS-E	Closed - Done	Gries, Michael	2022-03-11 08:43 AM	2022-05-31
+242130	215968	Risk Assessment (RA)	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_PUC-Logbuch	Closed - Done	Gries, Michael	2022-03-14 09:18 AM	2022-03-31
+242343		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017560_IQP-3597-01_PM 44324_ IQ Abweichung: Fehlende Dokumente seitens des Lieferanten (Abw. 1)	Closed - Done	Christ, Matthias	2022-03-15 11:49 AM	2022-07-22
+242779	242343	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&V 3597_ PM 44324_ IQ Abweichung: Fehlende Dokumente seitens des Lieferanten	Closed - Done	Elouali, Salma	2022-03-18 08:56 AM	2022-04-01
+242971		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-016707_IOQP-2782-03_IOQ-24 Ein Ausstossvolumen außerhalb des Limits	Closed - Done	Polewka, Alexander	2022-03-21 01:18 PM	2022-04-29
+243005		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-016707_IOQP-2782-03_IOQ-22 und IOQ-23 Probendurchsatz pro Stunde	Closed - Done	Polewka, Alexander	2022-03-21 04:39 PM	2022-04-29
+243044		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017561_Q&V-IOQP-3901-01_Installations-und Funktionsqualifizierung, Photometrische Überprüfung  (Abw. 1)	Closed - Done	Christ, Matthias	2022-03-22 09:30 AM	2022-04-28
+243141	234681	Due Date Extension / Escalation		Zweite Fristverlängerung zu Q&V 3907_ TOC-Analysator aus DE09 ins MS&T Center ohne Lastenheft, Pflichtenheft und Designq	Closed - Done	Elouali, Salma	2022-03-22 05:17 PM	
+243721		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017560_IQP-3597-01_PM 44324_IQ Abweichung: Unterschiedliche Interpretation des Backupprozederes (Abw. 2)	Closed - Done	Elouali, Salma	2022-03-28 04:38 PM	2022-06-09
+243725	243721	Measure	Melsungen (Quality Unit)	Anfrage bzgl. Backupprozedere Auftragnehmer	Closed - Done	Elouali, Salma	2022-03-28 04:49 PM	2022-04-11
+243726	243721	Measure	Melsungen (Quality Unit)	Überprüfung Backupprozedere in der OQ	Closed - Done	Elouali, Salma	2022-03-28 04:51 PM	2022-05-26
+244102		Deviation	Melsungen LIFE N (Commercial Manufacturing DE53)	Q&VDE53_Q&V-VAL-P-MEG-5-003904 Prüfung der Betriebs-SOP MES im Rahmen des Periodic Reviews	Closed - Done	Heiderich, Lars Juergen	2022-03-30 03:28 PM	2022-07-18
+244137	242343	Measure	Melsungen (Quality Unit)	Berücksichtigung aktualisierte Dokumente in der OQ	Closed - Done	Elouali, Salma	2022-03-31 09:04 AM	2022-06-30
+244675	236906	Due Date Extension / Escalation		Überprüfung der RA der am Standort eingesetzten Monitoringsysteme und deren Alarmierung	Closed - Done	Weinert, Stefan	2022-04-05 01:48 PM	
+244746		Deviation	Melsungen (Quality Unit)	IA Q&VZL_VAL-P-MEG-017561_IOQ-Dilutor IOQP-3901-01 u. IOQP-3902-01, Punkt IOQ-13 Erstkalibrierung Planerstellungsfehler	Closed - Done	Christ, Matthias	2022-04-06 07:53 AM	2022-05-06
+245047	230150	Due Date Extension / Escalation		2. Due Date Extension to Measure 230150	Closed - Done	Christ, Matthias	2022-04-08 08:51 AM	
+245411	215968	Due Date Extension / Escalation		Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_PUC-Logbuch	Closed - Done	Gries, Michael	2022-04-12 08:41 AM	
+245528		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-015661_ Q&V-IQP-3586-01, Nicolet Summit mit Omnic Paradigm	Closed - Done	Polewka, Alexander	2022-04-12 03:34 PM	2022-05-27
+246100	237820	Due Date Extension / Escalation		1. Due Date Extension for measure  to child 237820	Closed - Done	Christ, Matthias	2022-04-20 12:11 PM	
+247106	215521	Due Date Extension / Escalation		215521 - Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_alle Linien	Closed - Done	Gries, Michael	2022-04-29 09:12 AM	
+247632		Deviation	Melsungen (Quality Unit)	Q&VZL_N/A_Q&V-DQP-3798-01_Designqualifizierung, Digital Anemometer	Closed - Done	Polewka, Alexander	2022-05-04 09:21 AM	2022-05-27
+247893	236106	Due Date Extension / Escalation		1. Fristverlängerung Measure 236106	Closed - Done	Christ, Matthias	2022-05-06 07:47 AM	
+248360		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017716 _OQP-3826-01 OQ-10 Kalibrierzertifikat nicht korrekt	Closed - Done	Polewka, Alexander	2022-05-10 04:32 PM	2022-06-30
+248363		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017716 _OQP-3826-01 OQ-18 Abweichende Benutzerrechte für Administratoren zu Vorgabe aus IQ-20	Closed - Done	Polewka, Alexander	2022-05-10 05:17 PM	2022-06-30
+248364		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017716 _OQP-3826-01 OQ-19 Keine Einstellungen zur Passwortwiederholung und Komplexität möglich	Closed - Done	Polewka, Alexander	2022-05-10 05:36 PM	2022-06-30
+249432	241947	Due Date Extension / Escalation		Q&VDE53_ VAL-P-MEG-5-004198_QP- 2524-03-PR Periodic Review PLS-E	Closed - Done	Gries, Michael	2022-05-19 02:21 PM	
+250075	234681	Due Date Extension / Escalation		Dritte Fristverlängerung zu Q&V 3907_ TOC-Analysator aus DE09 ins MS&T Center ohne Lastenheft, Pflichtenheft...	Closed - Done	Christ, Matthias	2022-05-25 11:49 AM	
+250259	215521	Due Date Extension / Escalation		Q&VDE13_Q&V-IOQP-3728-01_VAL-P-WERK P-003426_Ausschussgrenzwerte_alle Linien	Closed - Done	Gries, Michael	2022-05-27 01:23 PM	
+253257		Deviation	Melsungen Werk A (Commercial Manufacturing DE09)	Q&VDE09_VAL-P-WERK A-004254/QP-2467-02-PR Prüfung der Betriebs-SOP PAS-X im Rahmen des Periodischen Reviews	Closed - Done	Burgmaier, Patricia	2022-06-23 04:31 PM	2022-10-31
+253358		Deviation	Melsungen Werk A (Commercial Manufacturing DE09)	Q&VDE09_VAL-P-WERK A-004254/QP-2467-02-PR Prüfung Logbuch im Rahmen des Periodischen Reviews	Closed - Done	Burgmaier, Patricia	2022-06-24 02:36 PM	2022-08-31
+253364		Deviation	Melsungen Werk A (Commercial Manufacturing DE09)	Q&VDE09_VAL-P-WERK A-004254/QP-2467-02-PR Fehlende Freigeberschulung  im Rahmen des Periodischen Reviews	Closed - Done	Burgmaier, Patricia	2022-06-24 03:11 PM	2022-10-28
+253799		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-017778_PQP 3617-01, Akzeptanzkriterium für Pos. PQ-7 für VK am PM 9390 nicht eingehalten	Closed - Done	Polewka, Alexander	2022-06-29 01:42 PM	2022-08-05
+253828		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017546_DQB-3597-01_PM 44324_DQ Abweichung: Abweichung bei der Passwortwiederholung (Abw. 1)	Closed - Done	Elouali, Salma	2022-06-29 02:54 PM	2023-03-31
+253829		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017546_DQB-3597-01_PM 44324_DQ Abweichung: Abweichung bei der Änderungserfassung im Audit-Trail (Abw. 2)	Closed - Done	Elouali, Salma	2022-06-29 02:59 PM	2023-03-31
+253843	253828	Due Date Extension / Escalation		2. Fristverlängerung der Abweichung zu Q&VQU_VAL-P-MEG-017546_DQB-3597-01_PM 44324_DQ Abweichung 1	Closed - Done	Elouali, Salma	2022-06-29 03:49 PM	
+253847	253829	Due Date Extension / Escalation		2. Fristverlängerung der Abweichung zu Q&VQU_VAL-P-MEG-017546_DQB-3597-01_PM 44324_DQ Abweichung 2	Closed - Done	Elouali, Salma	2022-06-29 04:08 PM	
+254093	242343	Due Date Extension / Escalation		1. Zieldatenverlängerung zu Abw. Q&VZL_VAL-P-MEG-017560_IQP-3597-01_PM 44324 (Abw. 1)	Closed - Done	Christ, Matthias	2022-07-01 08:35 AM	
+254638	253721	Root Cause / Impact Analysis	Melsungen (Central Service Areas)	Periodic Review MES 2022 nicht fristgerecht durchgeführt	Closed - Done	Christ, Matthias	2022-07-06 10:34 AM	2022-08-03
+254721		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-18 Abweichung: Abw. bei einer Sicherheitsanforderung an die Passwörter	Closed - Done	Elouali, Salma	2022-07-06 03:40 PM	2022-08-05
+254734		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-016707_2782_Titrator PM 35607 / Firmware (FW) von LiquidHandler und Probenwechsler	Closed - Done	Polewka, Alexander	2022-07-06 04:13 PM	2022-09-30
+254850	254734	Measure	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-016707_2782_Titrator PM 35607 / Firmware (FW) von LiquidHandler und Probenwechsler / Measure 3: IOQB	Closed - Done	Polewka, Alexander	2022-07-07 12:10 PM	2022-09-30
+254878	241947	Due Date Extension / Escalation		241947 - Q&VDE53_ VAL-P-MEG-5-004198_QP- 2524-03-PR Periodic Review PLS-E	Closed - Done	Gries, Michael	2022-07-07 01:38 PM	
+255500	254721	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-18 Abweichung: Abw. bei einer Sicherheitsanforderung an die Passwörter	Closed - Done	Elouali, Salma	2022-07-13 01:52 PM	2022-08-01
+255726	236106	Due Date Extension / Escalation		2. Erweiterung des aktuellen Zeitraums für Measure 236106	Closed - Done	Christ, Matthias	2022-07-15 08:32 AM	
+255963	245528	Measure	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-015661_ Q&V-IQP-3586-01, Nicolet Summit mit Omnic Paradigm / LH versionieren	Closed - Done	Polewka, Alexander	2022-07-18 03:49 PM	2022-07-29
+257054	237820	Due Date Extension / Escalation		2. Due Date Extension for measure to child 237820	Closed - Done	Christ, Matthias	2022-07-28 08:59 AM	
+257950	254734	Due Date Extension / Escalation		Erste Fristverlängerung zu #254734	Closed - Done	Polewka, Alexander	2022-08-09 12:44 PM	
+258752	253721	Measure	Melsungen (Central Service Areas)	Periodic Review MES 2022 nicht fristgerecht durchgeführt, DE53, Rückmeldung Periodic Review MES	Closed - Done	Christ, Matthias	2022-08-19 07:13 AM	2022-11-09
+259242		Deviation	Melsungen (MS&T Center)	Q&VDE03_VAL-P-TECH-000549 - PR RRMS 2022 - PP05 nicht aktuelle  Dokumente	Closed - Done	Burgmaier, Patricia	2022-08-25 11:26 AM	2022-10-05
+260047	253828	Due Date Extension / Escalation		3. Fristverlängerung der Abweichung zu Q&VQU_VAL-P-MEG-017546_DQB-3597-01_PM 44324_DQ Abweichung 1	Closed - Done	Elouali, Salma	2022-09-01 12:25 PM	
+260049	253829	Due Date Extension / Escalation		3. Fristverlängerung der Abweichung zu Q&VQU_VAL-P-MEG-017546_DQB-3597-01_PM 44324_DQ Abweichung 2	Closed - Done	Elouali, Salma	2022-09-01 12:30 PM	
+260253		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-15 Abweichung: Abw. bei der Benutzerrechtematrix	Pending Execution	Elouali, Salma	2022-09-02 06:27 PM	2022-12-31
+260254	260253	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-15 Abweichung: Abw. bei der Benutzerrechtematrix	Closed - Done	Elouali, Salma	2022-09-02 06:56 PM	2022-12-31
+260905		Deviation	Melsungen LIFE N (Commercial Manufacturing DE53)	Q&VDE53_VAL-P-MEG-5.004472_QP-2840-03-PR  PR_RRMS_2022 PP06  Rollen-Rechte Zuordnung	Closed - Done	Burgmaier, Patricia	2022-09-08 02:25 PM	2022-10-06
+260911		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-018404_OQP-1189-01-17, Upgrade WinKQCL Software - Neuinstallation Rechner für PM16677 inkl. SW und DB	Closed - Done	Polewka, Alexander	2022-09-08 03:05 PM	2022-09-30
+260945		Deviation	Melsungen (MS&T Center)	Q&VDE03_VAL-P-TECH-000549 - PR RRMS 2022 - PP06  Rollen-Rechte Matrix entspricht nicht dem Systemzustand	Closed - Done	Burgmaier, Patricia	2022-09-08 05:13 PM	2022-11-08
+261457		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-018404_OQP-1189-01-17, Upgrade WinKQCL Software - OQ-7. und OQ-21. Feld Anmerkungen	Closed - Done	Polewka, Alexander	2022-09-13 11:05 AM	2022-10-31
+261463		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-018404_OQP-1189-01-17, Upgrade WinKQCL Software - OQ-24. Rücknahme elektronische Signatur	Closed - Done	Polewka, Alexander	2022-09-13 11:18 AM	2022-10-31
+261599		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_IOQP-3893-01_ VAL-P-WERK P-003767_MES DE13	Deviation Coordination	Gries, Michael	2022-09-14 08:42 AM	2022-12-13
+263024		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_PR-Plan 2833-02 Periodic Review MES DE13 2021 Abw. 1	Final Approval	Heiderich, Lars Juergen	2022-09-27 09:17 AM	2022-12-12
+263030	263024	Due Date Extension / Escalation		Anpassung des Dokuments Betriebs-SOP MES DE13	Closed - Cancelled	Heiderich, Lars Juergen	2022-09-27 09:33 AM	
+263232		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-018291_RQP-1115-14 - Nicht bestehen der Prüfpunkte 05 und 07	Deviation Coordination	Polewka, Alexander	2022-09-28 11:15 AM	2023-03-31
+263457		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-018471_IOQP-1189-01-18 - IOQP - Upgrade WinKQCL Software - Neuinstallation Rechner für PM36364 - IOQ-13	Closed - Done	Polewka, Alexander	2022-09-29 10:46 AM	2022-10-31
+263725	263024	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_PR-Plan 2833-02 Periodic Review MES DE13 2021 Abw. 1 - Product Quality Assessment	Closed - Done	Heiderich, Lars Juergen	2022-09-30 02:45 PM	2022-10-27
+263772		Deviation	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_QP-2510-02-PR_ VAL-P-WERK P-003973_Periodic Review Package Unit Controller PUC DE13 - 2022 Abw.1	Deviation Coordination	Polewka, Alexander	2022-09-30 06:05 PM	2022-12-23
+263773	263772	Quality Assessment	Melsungen LIFE (Commercial Manufacturing DE13)	Q&VDE13_QP-2510-02-PR_ VAL-P-WERK P-003973_Periodic Review Package Unit Controller PUC DE13 - 2022 Abw.1 - PQA	Closed - Done	Polewka, Alexander	2022-09-30 06:21 PM	2022-10-14
+264113	261599	Due Date Extension / Escalation		Q&VDE13_IOQP-3893-01_ VAL-P-WERK P-003767_MES DE13	Closed - Done	Gries, Michael	2022-10-05 01:10 PM	
+264129	258752	Due Date Extension / Escalation		1. Verlängerung Periodic Review MES 2022 nicht fristgerecht durchgeführt, DE53, Rückmeldung Periodic Review MES	Closed - Done	Christ, Matthias	2022-10-05 02:37 PM	
+264461		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-22 Abweichung: Abw. beim Ausdruck der Analysenberichte	Closed - Done	Elouali, Salma	2022-10-07 03:33 PM	2022-12-31
+264470		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-29 Abweichung: Abw. bei der Ablage der Snapshot-Datei	Closed - Done	Elouali, Salma	2022-10-07 04:30 PM	2022-12-31
+264892		Deviation	Melsungen LIFE N (Commercial Manufacturing DE53)	Q&VDE53_VAL-P-MEG-5-004290_QP- 3000-03-PR_Periodic Review 2022 MES DE53_Abw.1	Closed - Done	Gries, Michael	2022-10-12 01:25 PM	2022-11-15
+264920	237820	Due Date Extension / Escalation		3. Due Date Extension for measure to child 237820	Pending Approval	Christ, Matthias	2022-10-12 03:55 PM	
+265253		Deviation	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-16 Abweichung: Abw. bei der Benutzerverwaltung	Closed - Done	Elouali, Salma	2022-10-14 05:20 PM	2023-03-31
+265254	265253	Root Cause / Impact Analysis	Melsungen (Quality Unit)	Q&VQU_VAL-P-MEG-017905_OQP-3597-01_PM44324_OQ-16 Abweichung: Abw. bei der Benutzerverwaltung	Closed - Done	Elouali, Salma	2022-10-14 05:26 PM	2022-11-25
+265537	260945	Due Date Extension / Escalation		Q&VDE03_VAL-P-TECH-000549 - PR RRMS 2022 - PP06 Rollen-Rechte Matrix entspricht nicht dem Systemzustand	Closed - Done	Burgmaier, Patricia	2022-10-18 12:12 PM	
+268315	263024	Due Date Extension / Escalation		1. Zieldatenverlängerung Q&VDE13_PR-Plan 2833-02 Periodic Review MES DE13 2021 Abw. 1	Closed - Done	Heiderich, Lars Juergen	2022-11-09 04:15 PM	
+268739		Deviation	Melsungen (Quality Unit)	Q&VZL_VAL-P-MEG-018207-Durchführung von PQ-6 und PQ-7 vor Abschluss PQ-2 bis PQ-4	Deviation Coordination	Polewka, Alexander	2022-11-14 07:42 AM	2022-11-25
