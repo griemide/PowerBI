@@ -3,8 +3,8 @@ Power BI applications
 
 ## Measure (examples)
 **Google Lat, Lon:** 50.877044143876574, 9.691222909776272  
-```Breitengrad = LEFT(Address[Google Lat, Lon], SEARCH(",",Address[Google Lat, Lon],1)-1)```    
-```Längengrad = RIGHT(Address[Google Lat, Lon],len(Address[Google Lat, Lon])-find(",",Address[Google Lat, Lon]))```    
+```Breitengrad = LEFT(Address[Google Lat, Lon],SEARCH(",",Address[Google Lat, Lon],1)-1)```    
+```Längengrad = RIGHT(Address[Google Lat, Lon],LEN(Address[Google Lat, Lon])-FIND(",",Address[Google Lat, Lon]))```    
 
 ## Private Power BI reports and datasets
 see [PowerBI-Berichte](https://github.com/griemide/PowerBI-Berichte)
