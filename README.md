@@ -2,6 +2,10 @@
 Power BI applications
 
 ## Measure (examples)
+
+**New Table**  
+```MeasureTable = Row("Author", "Michael Gries", "Contact","https://github.com/griemide/PowerBI")```  
+
 **Google Lat, Lon:** 50.877044143876574, 9.691222909776272  
 ```Breitengrad = LEFT(Address[Google Lat, Lon],SEARCH(",",Address[Google Lat, Lon],1)-1)```    
 ```Längengrad = RIGHT(Address[Google Lat, Lon],LEN(Address[Google Lat, Lon])-FIND(",",Address[Google Lat, Lon]))```    
