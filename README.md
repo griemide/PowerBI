@@ -1,6 +1,9 @@
 # PowerBI
 Power BI applications
 
+## Wiki
+Hints and guides for Raw Data handling, Measure examples, Used DAX fuctions, ecetera) - [Wiki in German language only](https://github.com/griemide/PowerBI/wiki)
+
 ## Measure (examples)
 
 **New Table**  
