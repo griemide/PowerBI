@@ -28,10 +28,11 @@ Connecting Power BI to a private GitHub repo is super easy. The key differences 
 * Use the GitHub account email as the user name.  
 * Use the personal access token as the password.
 
+https://youtu.be/kP2g0D1PYqg
 
 
-[](https://learn.microsoft.com/de-de/dax/)  
-[]() 
+Video [DAX](https://learn.microsoft.com/de-de/dax/)  - by Microsoft
+Video [Microsoft Power Bi Architektur](https://youtu.be/kP2g0D1PYqg)  - by consultNetwork
 []() 
 []() 
 []() 
